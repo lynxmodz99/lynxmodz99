@@ -17,11 +17,11 @@
 
 ## About
 
-* Full-stack developer focused on clean architecture and performance
-* Build tools, automation systems, and scalable web apps
-* Strong interest in UI/UX that feels like native applications
-* Occasionally build Android apps
-* Currently exploring deeper backend + modern frameworks
+- Full-stack developer focused on clean architecture and performance  
+- Build tools, automation systems, and scalable web apps  
+- Strong interest in UI/UX that feels like native applications  
+- Occasionally build Android apps  
+- Currently exploring deeper backend + modern frameworks  
 
 ---
 
@@ -71,26 +71,24 @@ def life():
 
 ## Work Areas
 
-* Software tools and utilities
-* Web apps with app-like experience
-* UI/UX focused interfaces
-* Full-stack platforms
-* Automation bots and systems
+- Software tools and utilities  
+- Web apps with app-like experience  
+- UI/UX focused interfaces  
+- Full-stack platforms  
+- Automation bots and systems  
 
 ---
 
 ## Projects
 
 <p align="center">
-  <a href="https://lynxauth.qzz.io/">
-    <img src="https://img.shields.io/badge/Lynx%20Auth-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://pulsemusic.qzz.io/">
-    <img src="https://img.shields.io/badge/Pulse%20Bot-000?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://lynxmodz.qzz.io/">
-    <img src="https://img.shields.io/badge/About%20Me-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+| Project Name       | Description                    | Link                       |
+|-------------------|--------------------------------|----------------------------|
+| Lynx Auth         | Authentication system          | https://lynxauth.qzz.io/   |
+| Pulse Discord Bot | Music & automation Discord bot | https://pulsemusic.qzz.io/ |
+| More About Me     | Personal website               | https://lynxmodz.qzz.io/   |
+
 </p>
 
 ---
