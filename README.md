@@ -5,9 +5,6 @@
   Building real-world software with focus on performance, design, and usability
 </p>
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1481652276337709127?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Probably%20coding..." />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Tools+%26+Automation;UI%2FUX+Focused;Always+Learning" />
