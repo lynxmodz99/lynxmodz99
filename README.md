@@ -1,22 +1,27 @@
 <h1 align="center">LYNX</h1>
 
 <p align="center">
-17 y/o developer building functional, real-world software with focus on performance and design.
+  <b>17 y/o developer</b><br>
+  Building real-world software with focus on performance, design, and usability
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1481652276337709127?theme=dark&bg=0d1117&borderRadius=10px" />
+  <img src="https://lanyard.cnrad.dev/api/1481652276337709127?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Probably%20coding..." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Tools+%26+Automation;UI%2FUX+Focused;Always+Learning" />
 </p>
 
 ---
 
 ## About
 
-* Focused on full-stack development and system design
-* Build tools, automation systems, and web-based applications
-* Interested in UI/UX that feels like native apps
-* Occasionally develop Android applications
-* Currently working with modern web technologies and expanding backend skills
+* Full-stack developer focused on clean architecture and performance
+* Build tools, automation systems, and scalable web apps
+* Strong interest in UI/UX that feels like native applications
+* Occasionally build Android apps
+* Currently exploring deeper backend + modern frameworks
 
 ---
 
@@ -24,19 +29,19 @@
 
 ### Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,cs,ts" />
 </p>
 
 ### Frameworks & Technologies
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
 </p>
 
 ### Tools
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -67,23 +72,25 @@ def life():
 ## Work Areas
 
 * Software tools and utilities
-* Web applications with app-like experience
+* Web apps with app-like experience
 * UI/UX focused interfaces
-* Full stack websites
-* Automation bots
+* Full-stack platforms
+* Automation bots and systems
 
 ---
 
 ## Projects
 
 <p align="center">
-
-| Project Name      | Link                       |
-| ----------------- | -------------------------- |
-| Lynx Auth         | https://lynxauth.qzz.io/   |
-| Pulse Discord Bot | https://pulsemusic.qzz.io/ |
-| More About Me     | https://lynxmodz.qzz.io/   |
-
+  <a href="https://lynxauth.qzz.io/">
+    <img src="https://img.shields.io/badge/Lynx%20Auth-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://pulsemusic.qzz.io/">
+    <img src="https://img.shields.io/badge/Pulse%20Bot-000?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://lynxmodz.qzz.io/">
+    <img src="https://img.shields.io/badge/About%20Me-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -91,8 +98,12 @@ def life():
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lynxmodz99&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=lynxmodz99&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1481652276337709127?theme=dark&bg=0d1117&borderRadius=12px" />
 </p>
 
 ---
@@ -112,4 +123,4 @@ def life():
 
 ## Note
 
-Focus on building useful systems, refining skills, and keeping output consistent.
+Consistently building, improving, and pushing limits.
