@@ -1,4 +1,12 @@
+<h1 align="center">LYNX</h1>
 
+<p align="center">
+17 y/o developer building functional, real-world software with focus on performance and design.
+</p>
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1481652276337709127?theme=dark&bg=0d1117&borderRadius=10px" />
+</p>
 
 ---
 
