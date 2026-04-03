@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/avatars/1481652276337709127/a203d3c08957aeec724c0047c9312644.png?size=1024" width="120" style="border-radius: 50%;" />
+  <img src="https://lanyard.cnrad.dev/api/1481652276337709127" />
 </p>
 
 <h1 align="center">LYNX</h1>
