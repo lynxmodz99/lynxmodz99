@@ -15,39 +15,40 @@
 
 ---
 
-## About
+<h2 align="center">About</h2>
 
-- Full-stack developer focused on clean architecture and performance  
-- Build tools, automation systems, and scalable web apps  
-- Strong interest in UI/UX that feels like native applications  
-- Occasionally build Android apps  
-- Currently exploring deeper backend + modern frameworks  
+<p align="center">
+Full-stack developer focused on clean architecture and performance<br>
+Build tools, automation systems, and scalable web apps<br>
+Strong interest in UI/UX that feels like native applications<br>
+Occasionally build Android apps<br>
+Currently exploring deeper backend + modern frameworks
+</p>
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Languages
-
-<p>
+<h3 align="center">Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,cs,ts" />
 </p>
 
-### Frameworks & Technologies
-
-<p>
+<h3 align="center">Frameworks & Technologies</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
 </p>
 
-### Tools
-
-<p>
+<h3 align="center">Tools</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## Current Focus
+<h2 align="center">Current Focus</h2>
+
+<p align="center">
 
 ```txt
 Node.js        █████████░░░
@@ -56,7 +57,11 @@ React          ███████░░░░░
 Next.js        ██████░░░░░░
 ```
 
+</p>
+
 ---
+
+<p align="center">
 
 ```python
 def life():
@@ -67,19 +72,23 @@ def life():
         repeat()
 ```
 
----
-
-## Work Areas
-
-- Software tools and utilities  
-- Web apps with app-like experience  
-- UI/UX focused interfaces  
-- Full-stack platforms  
-- Automation bots and systems  
+</p>
 
 ---
 
-## Projects
+<h2 align="center">Work Areas</h2>
+
+<p align="center">
+Software tools and utilities<br>
+Web apps with app-like experience<br>
+UI/UX focused interfaces<br>
+Full-stack platforms<br>
+Automation bots and systems
+</p>
+
+---
+
+<h2 align="center">Projects</h2>
 
 <p align="center">
 
@@ -93,7 +102,7 @@ def life():
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lynxmodz99&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -106,7 +115,7 @@ def life():
 
 ---
 
-## Contact
+<h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="https://github.com/lynxmodz99">
@@ -119,6 +128,8 @@ def life():
 
 ---
 
-## Note
+<h2 align="center">Note</h2>
 
+<p align="center">
 Consistently building, improving, and pushing limits.
+</p>
